@@ -5,6 +5,12 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab1", "lab1\lab1.vcxproj", "{E9D1A0A2-9900-482C-9F08-BC1FA9C37EBB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F1D7F03-6068-4C40-AD08-AFE70522911A}"
+	ProjectSection(SolutionItems) = preProject
+		lab1\tetrahedron.obj = lab1\tetrahedron.obj
+		lab1\trajectory.obj = lab1\trajectory.obj
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
